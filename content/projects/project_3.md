@@ -1,10 +1,9 @@
 +++
-title = "Project 3"
-description = "Example description"
-weight = 1
+title = "Hedera NFT Sales Bot"
+description = "A Verified Discord Bot for Hedera Hashgraph NFTs, streaming real-time sales events over all NFT marketplaces. Customize it to track specific NFTs for a server. Currently being used by 100+ servers to track their NFTs."
+weight = 3
 
 [extra]
-remote_image = "https://images.unsplash.com/photo-1462556791646-c201b8241a94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1465&q=80"
+link_to = "https://github.com/0xAnon0602/Hedera-Hashgraph-Discord-Sales-Bot"
+local_image = "/projects/project_3.jpg"
 +++
-
-Example project page

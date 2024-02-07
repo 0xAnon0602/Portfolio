@@ -1,11 +1,9 @@
 +++
-title = "Project 2"
-description = "Example description"
-weight = 1
+title = "Hedera Coinflip"
+description = "a Full Stack Dapp for Hedera Arcade, featuring coinflip game built on smart contracts. It is based on sophisticated randomizer that takes into account block difficulty, timestamp, and other parameters to ensure fairness and unpredictability"
+weight = 2
 
 [extra]
-# You can also crop the image in the url by adjusting w=/h=
-remote_image = "https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+link_to = "https://hederacoinflip.com/"
+local_image = "/projects/project_2.jpg"
 +++
-
-Example project page
